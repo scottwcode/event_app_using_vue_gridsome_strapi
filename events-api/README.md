@@ -4,16 +4,20 @@ Available commands in your project to start a local server:
 
  Start Strapi in watch mode. Which will start
  a local dev server at `http://localhost:1337`
-  npm run develop
+ 
+ npm run develop
 
  Start Strapi without watch mode.
-  npm run start
+ 
+ npm run start
 
  Build Strapi admin panel.
-  npm run build
+ 
+ npm run build
 
  Display all available commands.
-  npm run strapi
+ 
+ npm run strapi
 
   
 Once the above server is running. The Strapi CMS to 
